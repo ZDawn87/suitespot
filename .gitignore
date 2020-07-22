@@ -18,7 +18,6 @@
 .env.test.local
 .env.production.local
 
-<<<<<<< HEAD
 # dotenv environment variables file
 .env
 .env.test
@@ -103,8 +102,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-=======
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
->>>>>>> 7a340909777c652fe08ae22d0f8503cafcccb763

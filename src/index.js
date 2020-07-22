@@ -2,10 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 7a340909777c652fe08ae22d0f8503cafcccb763
 ReactDOM.render(<App />, document.getElementById("root"));
 
 //CHALLENGE:
