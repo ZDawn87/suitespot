@@ -25,8 +25,8 @@ function App() {
   return (
     <div>
     <div className="App">
-    <rbstrap.Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-<rbstrap.Navbar.Brand href="#home">React-Bootstrap</rbstrap.Navbar.Brand>
+    <rbstrap.Navbar collapseOnSelect expand="xl" bg="dark" variant="dark">
+<rbstrap.Navbar.Brand href="#home">Suitespot</rbstrap.Navbar.Brand>
 <rbstrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
 <rbstrap.Navbar.Collapse id="responsive-navbar-nav">
   <rbstrap.Nav className="mr-auto">
